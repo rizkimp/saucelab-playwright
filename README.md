@@ -1,5 +1,5 @@
-## automation test using python behave playwright
-## instalation
+### automation test using python behave playwright
+### instalation
 
 1. clone the repository
 
@@ -16,18 +16,18 @@
 
 3. install playwright browser
 
- ```bash
+    ```bash
     playwright install
     ```
 
 4. run the automation test
 
- ```bash
+    ```bash
     behave /features/test-name.feature
     ```
 
 5. open test report from browser
 
- ```bash
+    ```bash
     allure serve
     ```
