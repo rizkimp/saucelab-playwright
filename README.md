@@ -1,10 +1,9 @@
-# automation test using python behave playwright
-
+## automation test using python behave playwright
 ## instalation
 
 1. clone the repository
 
-```bash
+    ```bash
     git clone https://github.com/rizkimp/saucelab-playwright.git
     cd playwright-behave-automation
     ```
