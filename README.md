@@ -5,7 +5,7 @@
 
     ```bash
     git clone https://github.com/rizkimp/saucelab-playwright.git
-    cd playwright-behave-automation
+    cd saucelab-playwright
     ```
 
 2. install the required packages
